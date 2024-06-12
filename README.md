@@ -9,14 +9,14 @@ All the details are inside the script, but if you want a general gist of what's 
 
 # Movement: 
 
-"Auto_Super_Jump" when true allows you to hold down the spacebar to perform a triple jump of sorts, but this requires that your equipped gadget is the grappler.
+**"Auto_Super_Jump"** when true allows you to hold down the spacebar to perform a triple jump of sorts, but this requires that your equipped gadget is the grappler.
 
 # Utility:
 
-"Auto_Use_Skill" is self-explanatory, spamming "E" when held down.
-"Auto_Use_Echo" is self-explanatory as well.
-"Auto_Use_Liberation" ...
-"Auto_Swap_Characters" is self-explanatory, but I'll explain it anyways. Hold down 1-3 to frame 1 swap to them or whatever. You get the point.
+**"Auto_Use_Skill"** is self-explanatory, spamming "E" when held down.
+**"Auto_Use_Echo"** is self-explanatory as well.
+**"Auto_Use_Liberation"** ...
+**"Auto_Swap_Characters"** is self-explanatory, but I'll explain it anyways. Hold down 1-3 to frame 1 swap to them or whatever. You get the point.
 
 # Convenience: (kinda the same as utility)
 
