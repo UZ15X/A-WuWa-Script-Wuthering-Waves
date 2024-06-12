@@ -1,4 +1,4 @@
-﻿; Configuration
+; Configuration
 
 
 ; Movement
@@ -22,9 +22,7 @@ Auto_Attack := true ; Press and Hold the "Forward" button on the side of your mo
 
 ; Niche (You can only have one active at a time and no, I'm not changing this.)
 
-Chixia_Rapid_Fire := true ; Press and Hold the "Back" button on the side of your mouse to rapid fire with Chixia.
-
-
+Chixia_Rapid_Fire := true ; Press and Hold the "Back" key on the side of your mouse, if you have one, to do the funny machine gun with Chixia.
 
 ; Ignore!!!
 
@@ -232,13 +230,15 @@ Return
 
 ; Niche Chixia Rapid Fire
 *~$XButton1::
-	While GetKeyState("XButton1","P") {
-		Send, g
-		Sleep, 1
-		Send, {LButton}
-		Sleep, 1
-		Send, g
-		Sleep, 22
+	if WinActive("Wuthering Waves") && Chixia_Rapid_Fire {
+		While GetKeyState("XButton1","P") {
+			Send, g
+			Sleep, 1
+			Send, {LButton}
+			Sleep, 1
+			Send, g
+			Sleep, 22
+		}
+		Send, {LShift}
 	}
-	Send, {LShift}
 return
