@@ -19,12 +19,12 @@ Auto_Swap_Characters := true ; Press and Hold 1-3 to automatically swap Characte
 RMB_Heavy_Attack := true ; Replaces the dash bind on Right Click to a Heavy Attack. (Can be held)
 Auto_Use_Gadget := true ; Press and Hold "T" to automatically use your equipped gadget.
 Auto_Press_F := true ; Press and Hold "F" to repeatedly spam F. This can be used to immediately collect things and skip through unskippable dialogue.
-Auto_Fast_Travel := true ; Press the "Forwawrd Button" on the side of your mouse while hovering over a Waypoint to automatically Fast Travel to it. DOES NOT WORK ON CUSTOM WAYPOINTS.
+Auto_Fast_Travel := true ; Press the "Forwawrd" button on the side of your mouse while hovering over a Waypoint to automatically Fast Travel to it. DOES NOT WORK ON CUSTOM WAYPOINTS.
 Auto_Attack := true ; Press and Hold the "Forward" button on the side of your mouse to automatically attack rapidly. It's effectively an autoclicker.
 
 ; Niche (You can only have one active at a time and no, I'm not changing this.)
 
-Chixia_Rapid_Fire := true ; Press and Hold the "Back" key on the side of your mouse, if you have one, to do the funny machine gun with Chixia.
+Chixia_Rapid_Fire := true ; Press and Hold the "Back" button on the side of your mouse, if you have one, to do the funny machine gun with Chixia.
 
 ; Ignore!!!
 
