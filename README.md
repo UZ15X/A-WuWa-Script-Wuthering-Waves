@@ -28,6 +28,8 @@ All the details are inside the script, but if you want a general gist of what's 
 
 **"Auto_Use_Gadget"** is self-explanatory, spamming "T" so you can keep using your gadget. Really useful with Sensor.
 
+**"Auto_Press_F"** is self-explanatory. Very convenient for skipping unskippable dialogues and picking up things frame 1.
+
 **"Auto_Fast_Travel"** is a bit weird so hear me out. When in the map, hover over any waypoint and press the "Forward" button on the side of your mouse if you have one. Very convenient, but doesn't work on personal waypoints, **yet**.
 
 **"Auto_Attack"** is self-explanatory. Hold down the "Forward" button on the side of your mouse to effectively auto-click. Very useful if you're lazy and deal enough damage to shred things with just normals.
