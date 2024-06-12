@@ -1,7 +1,7 @@
 # A-WuWa-Script-Wuthering-Waves
 An AutoHotKey script inspired by YAGS (Yet Another Genshin Script), but simpler, and for Wuthering Waves.
 
-You **MUST HAVE** AutoHotKey installed to use this script. This script was also made **ONLY WITH 1920x1080** screens in mind and will not work with anything else. Haha.
+You **MUST HAVE** AutoHotKey installed to use this script. This script was also made **ONLY WITH 1920x1080** screens and **60 FPS** in mind so some things might not work with anything else. Haha.
 
 You can configure the script by simply openning it in Notepad, Visual Studio Code, blah, blah, blah.
 
