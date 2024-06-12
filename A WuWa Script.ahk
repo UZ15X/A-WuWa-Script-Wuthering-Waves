@@ -1,3 +1,5 @@
+; A WuWa Script || PLEASE RUN AS ADMINISTRATOR!!!!
+
 ; Configuration
 
 
