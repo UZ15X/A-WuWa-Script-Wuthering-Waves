@@ -40,4 +40,4 @@ All the details are inside the script, but if you want a general gist of what's 
 
 Also, there will be some bugs and issues here and there and while I normally would fix them, I'm too lazy to and to be honest, it's not like any of them will break the game or anything... I think.
 
-I don't have anything else for Niche stuff, but if you have suggestions, please don't be afraid to DM me them at 1x5x0x7x3 on Discord.
+I don't have anything else for Niche stuff, but if you have suggestions, please don't be afraid to DM me them at 1x5x0x7x3 on Discord. Also, I don't mind if you take my stuff because to be perfectly honest, it's super simple and basic. I genuinely don't really care, but please don't do anything illegal with it.
