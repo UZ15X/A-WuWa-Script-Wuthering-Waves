@@ -36,18 +36,17 @@ SetKeyDelay, -1, -1
 
 
 ; Auto Super Jump
-*$Space::
-	Send, {LShift up}{Space}
+*~$Space::
 	if WinActive("Wuthering Waves") && Auto_Super_Jump {
 		Sleep, 333
 		if GetKeyState("Space","P") {
-			Send, {LButton}
+			Click
 			Sleep, 333
 			if GetKeyState("Space","P") {
 				Send, {LShift}
 				Sleep, 333
 				if GetKeyState("Space","P") {
-					Send, {LButton}
+					Click
 					Sleep, 333
 					if GetKeyState("Space","P") {
 						SendInput, t
